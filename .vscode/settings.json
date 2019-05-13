@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "env/bin/python",
+    "workbench.settings.editor": "json",
+    "python.linting.pylintEnabled": false,
+    "python.linting.mypyEnabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "autopep8"
+}
