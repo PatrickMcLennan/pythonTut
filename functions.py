@@ -1,6 +1,6 @@
 
-def increment(number, by):
+def increment(number: int, by: int = 1) -> tuple:
     return (number, number + by)
 
 
-print(increment(2, 3))
+print(increment(2))
